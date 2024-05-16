@@ -3,7 +3,9 @@
 <a href="https://www.instagram.com/araad.saidi/">
   <img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
 </a>
-
+<a href="https://www.linkedin.com/in/aradsaidi">
+  <img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
+</a>
 
 <!--
 **saidiarad/saidiarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
