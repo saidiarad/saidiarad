@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
+<a href="https://www.instagram.com/araad.saidi/">
+  <img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
 </a>
 
 
